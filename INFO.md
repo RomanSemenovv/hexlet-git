@@ -1,4 +1,7 @@
 git is awesome!
 new line
 experiment with amend
-19 january
+I can do this
+
+Today is a good day
+I want split lines
